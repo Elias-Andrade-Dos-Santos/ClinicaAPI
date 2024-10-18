@@ -1,0 +1,23 @@
+# .NET Core/ASP.NET Core
+bin/
+obj/
+*.dll
+*.pdb
+*.exe
+*.log
+*.user
+*.rsuser
+*.suo
+*.tmp
+*.vscode/
+*.ide/
+.vscode/
+*.vs/
+.idea/
+.vs/
+.vscode/*
+.vscode/*.log
+.vscode/*.py
+.vscode/*.bash
+.vscode/*.html
+.vscode/*.mike
